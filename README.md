@@ -8,9 +8,9 @@
 Restults generated for the [metaGEM](https://github.com/franciscozorrilla/metaGEM) publication, where the following datasets were analyzed:
 
 - 🧪 Small communities of gut microbes from lab cultures ([publication](https://www.science.org/doi/10.1126/science.aac4812), [results](https://zenodo.org/record/5593111#.YXLma3nTVz9))
-- 💩 Real gut microbiome samples from Swedish diabetes paper ([publication](https://www.nature.com/articles/nature12198))
-- 🪴 Plant-associated soil samples from Chinese rhizobiome study ([publication](https://www.nature.com/articles/s41396-018-0300-0))
-- 🌏 Bulk-soil samples from Australian biodiversity analysis ([publication](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982))
+- 💩 Real gut microbiome samples from Swedish diabetes paper ([publication](https://www.nature.com/articles/nature12198), [results](https://zenodo.org/record/5593224#.YXb90XnTX1w))
+- 🪴 Plant-associated soil samples from Chinese rhizobiome study ([publication](https://www.nature.com/articles/s41396-018-0300-0), [results](https://zenodo.org/record/5596948#.YXb-FHnTX1w))
+- 🌏 Bulk-soil samples from Australian biodiversity analysis ([publication](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982), [results](https://zenodo.org/record/5596972#.YXb-QnnTX1w))
 - 🌊 Ocean water samples from global TARA Oceans expeditions ([publication](https://www.science.org/doi/10.1126/science.1261359))
 
 ## 🔍 Overview of datasets
