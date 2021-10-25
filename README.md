@@ -3,7 +3,6 @@
 
 [![Nucleic Acids Research](https://img.shields.io/badge/Nucleic%20Acids%20Research-10.1093%2Fnar%2Fgkab815-critical)](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab815/6382386)
 [![GitHub](https://img.shields.io/badge/GitHub-metaGEM-blue)](https://github.com/franciscozorrilla/metaGEM)
-[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2F4707723-blue)](https://zenodo.org/record/4407746#.YXAvvnnTVz8)
 
 Restults generated for the [metaGEM](https://github.com/franciscozorrilla/metaGEM) publication, where the following datasets were analyzed:
 
@@ -12,6 +11,10 @@ Restults generated for the [metaGEM](https://github.com/franciscozorrilla/metaGE
 - 🪴 Plant-associated soil samples from Chinese rhizobiome study ([publication](https://www.nature.com/articles/s41396-018-0300-0), [results](https://zenodo.org/record/5596948#.YXb-FHnTX1w))
 - 🌏 Bulk-soil samples from Australian biodiversity analysis ([publication](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982), [results](https://zenodo.org/record/5596972#.YXb-QnnTX1w))
 - 🌊 Ocean water samples from global TARA Oceans expeditions ([publication](https://www.science.org/doi/10.1126/science.1261359))
+
+We provide an individual zenodo repo for each study, where you can find assemblies, contig coverage across all samples in dataset, metagenome assembled genomes (MAGs), ORF-annotated protein bins, and genome-scale metabolic models (GEMs). You can find statistics, summary files, and plots in the `bonus.tar.gz` folder, including taxonomic annotation of MAGs, as well as genome completeness & contamiantion estimates, among other intermediate results. Alternatively, if all you want is all of the metabolic models, they are collected in a single respository here:
+
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2F4707723-blue)](https://zenodo.org/record/4407746#.YXAvvnnTVz8)
 
 ## 🔍 Overview of datasets
 
@@ -23,8 +26,6 @@ Restults generated for the [metaGEM](https://github.com/franciscozorrilla/metaGE
 | Bulk soil  | 46  | 596  | 274  |
 | TARA oceans  | 246  | 4929  | 9366 |
 | **TOTAL**  | 483  | 6009  | 14100  |
-
-We provide a subfolder for each study, where you can find assemblies, metagenome assembled genomes (MAGs), genome-scale metabolic models (GEMs), taxonomic annotations, as well as genome completeness & contamiantion estimates, among other intermediate results.
 
 ## 🍾 Please cite
 
