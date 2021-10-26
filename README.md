@@ -6,11 +6,11 @@
 
 Restults generated for the [metaGEM](https://github.com/franciscozorrilla/metaGEM) publication, where the following datasets were analyzed:
 
-- 🧪 Small communities of gut microbes from lab cultures ([publication](https://www.science.org/doi/10.1126/science.aac4812), [results](https://zenodo.org/record/5593111#.YXLma3nTVz9))
-- 💩 Real gut microbiome samples from Swedish diabetes paper ([publication](https://www.nature.com/articles/nature12198), [results](https://zenodo.org/record/5593224#.YXb90XnTX1w))
-- 🪴 Plant-associated soil samples from Chinese rhizobiome study ([publication](https://www.nature.com/articles/s41396-018-0300-0), [results](https://zenodo.org/record/5596948#.YXb-FHnTX1w))
-- 🌏 Bulk-soil samples from Australian biodiversity analysis ([publication](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982), [results](https://zenodo.org/record/5596972#.YXb-QnnTX1w))
-- 🌊 Ocean water samples from global TARA Oceans expeditions ([publication](https://www.science.org/doi/10.1126/science.1261359))
+- 🧪 Small communities of gut microbes from lab cultures
+- 💩 Real gut microbiome samples from Swedish diabetes paper
+- 🪴 Plant-associated soil samples from Chinese rhizobiome study
+- 🌏 Bulk-soil samples from Australian biodiversity analysis
+- 🌊 Ocean water samples from global TARA Oceans expeditions
 
 We provide an individual zenodo repo for each study, where you can find assemblies, contig coverage across all samples in dataset, metagenome assembled genomes (MAGs), ORF-annotated protein bins, and genome-scale metabolic models (GEMs). You can find statistics, summary files, and plots in the `bonus.tar.gz` folder, including taxonomic annotation of MAGs, as well as genome completeness & contamiantion estimates, among other intermediate results. Alternatively, if all you want is all of the metabolic models, they are collected in a single respository here:
 
@@ -18,14 +18,14 @@ We provide an individual zenodo repo for each study, where you can find assembli
 
 ## 🔍 Overview of datasets
 
-| Dataset  | Number of Samples | Total Length (Gbp) | Number of MAGs Generated |
-| :---         |     :---      | :---         |     :---      |
-| Lab community  | 48  | 37  | 154  |
-| Human gut  | 137  | 407  | 4134  |
-| Plant associated | 6  | 40 | 172 |
-| Bulk soil  | 46  | 596  | 274  |
-| TARA oceans  | 246  | 4929  | 9366 |
-| **TOTAL**  | 483  | 6009  | 14100  |
+| Dataset | Data Source | Number of Samples | Total Size (Gbp) | Number of MAGs Generated | metaGEM Results |
+| :---        |     :---       |     :---      | :---         |     :---     |     :---       |
+| Lab community | [Publication](https://www.science.org/doi/10.1126/science.aac4812) | 48  | 37  | 154  | [Zenodo](https://zenodo.org/record/5593111#.YXLma3nTVz9) |
+| Human gut | [Publication](https://www.nature.com/articles/nature12198) | 137  | 407  | 4134  | [Zenodo](https://zenodo.org/record/5593224#.YXb90XnTX1w) |
+| Plant associated | [Publication](https://www.nature.com/articles/s41396-018-0300-0) | 6  | 40 | 172 | [Zenodo](https://zenodo.org/record/5596948#.YXb-FHnTX1w) |
+| Bulk soil | [Publication](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982) | 46 | 596  | 274  | [Zenodo](https://zenodo.org/record/5596972#.YXb-QnnTX1w) |
+| TARA oceans | [Publication](https://www.science.org/doi/10.1126/science.1261359) | 246  | 4929  | 9366 | [Zenodo (1/2)](https://zenodo.org/record/5597227#.YXfbzHnTVz8), [Zenodo (2/2)](https://zenodo.org/record/5599412#.YXfbzHnTVz8)|
+| **TOTAL** | - | 483  | 6009  | 14100  | - |
 
 ## 🍾 Please cite
 
